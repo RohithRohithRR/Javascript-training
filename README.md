@@ -1,1 +1,1 @@
-we have two numbers m and n .Calculate the sum of the cube of integer from m to n if m is less than n,else print0,2.using switch case to choose food items and to calculate the total amount after discount.
+we have two numbers m and n .Calculate the sum of the cube of integer from m to n if m is less than n,else print 0.
